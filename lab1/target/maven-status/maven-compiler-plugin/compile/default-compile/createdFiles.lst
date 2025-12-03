@@ -1,0 +1,4 @@
+edu\supmti\hadoop\Main.class
+ReadHDFS.class
+HDFSWrite.class
+HadoopFileStatus.class
